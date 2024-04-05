@@ -6,7 +6,7 @@ repositories:
     version: main
   core/autoware_adapi_msgs:
     type: git
-    url: https://github.com/autowarefoundation/autoware_adapi_msgs.git
+    url: test
     version: main
   core/autoware_internal_msgs:
     type: git
