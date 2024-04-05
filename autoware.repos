@@ -109,6 +109,10 @@ repositories:
     type: git
     url: https://github.com/AVGTeam-OperakitB/pacmod_interface.git
     version: main
+  vehicle/external/pix_vehicle_interface:
+    type: git
+    url: https://github.com/AVGTeam-OperakitB/pix_vehicle_interface.git
+    version: main
   # param
   param/autoware_individual_params:
     type: git
