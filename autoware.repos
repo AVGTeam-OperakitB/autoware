@@ -2,7 +2,7 @@ repositories:
   # core
   core/autoware_msgs:
     type: git
-    url: https://github.com/autowarefoundation/autoware_msgs.git
+    url: https://github.com/AVGTeam-OperakitB/autoware_msgs.git
     version: main
   core/autoware_adapi_msgs:
     type: git
