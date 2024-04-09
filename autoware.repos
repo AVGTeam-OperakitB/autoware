@@ -117,10 +117,6 @@ repositories:
     type: git
     url: https://github.com/AVGTeam-OperakitB/sample_vehicle_launch.git
     version: main
-  vehicle/external/pacmod_interface:
-    type: git
-    url: https://github.com/AVGTeam-OperakitB/pacmod_interface.git
-    version: main
   vehicle/external/pix_vehicle_interface:
     type: git
     url: https://github.com/AVGTeam-OperakitB/pix_vehicle_interface.git
