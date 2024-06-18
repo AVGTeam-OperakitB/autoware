@@ -108,18 +108,6 @@ repositories:
     type: git
     url: https://github.com/AVGTeam-OperakitB/nmea_navsat_driver.git
     version: main
-  sensor_kit/sensor_driver/microstrain_inertial:
-    type: git
-    url: https://github.com/AVGTeam-OperakitB/microstrain_inertial.git
-    version: ros2
-  sensor_kit/sensor_driver/microstrain_inertial/microstrain_inertial_driver_common:
-    type: git
-    url: https://github.com/AVGTeam-OperakitB/microstrain_inertial_driver_common.git
-    version: main
-  sensor_kit/sensor_driver/microstrain_inertial/microstrain_inertial_driver_common/mip_sdk:
-    type: git
-    url: https://github.com/AVGTeam-OperakitB/mip_sdk.git
-    version: main
   # vehicle
   vehicle/sample_vehicle_launch:
     type: git
